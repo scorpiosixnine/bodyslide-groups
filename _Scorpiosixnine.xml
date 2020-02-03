@@ -285,5 +285,33 @@
         <Member name="AP Underwear 2 2"/>
         <Member name="AP Underwear 3"/>
         <Member name="AP Underwear 4"/>
+        <Member name="Black Corset Boots"/>
+        <Member name="Black Corset Dress"/>
+        <Member name="Black Corset Gloves"/>
+        <Member name="Black Corset Jacket"/>
+        <Member name="Celes Nightingale Accessories"/>
+        <!-- <Member name="Celes Nightingale Armor"/> -->
+        <Member name="Celes Nightingale Armor (Physics)"/>
+        <!-- <Member name="Celes Nightingale Cuisse"/> -->
+        <Member name="Celes Nightingale Cuisse (Physics)"/>
+        <Member name="Celes Nightingale Flat Boots"/>
+        <Member name="Celes Nightingale Gauntlets"/>
+        <Member name="Celes Nightingale High Heel Boots (HDT)"/>
+        <!-- <Member name="Celes Rogue Bag"/> -->
+        <Member name="Celes Rogue Bag (Physics)"/>
+        <Member name="Celes Rogue Belt"/>
+        <Member name="Celes Rogue Boots"/>
+        <!-- <Member name="Celes Rogue Cuirass"/> -->
+        <Member name="Celes Rogue Cuirass (Physics)"/>
+        <Member name="Celes Rogue Gloves"/>
+        <!-- <Member name="Celes Rogue Skirt"/> -->
+        <Member name="Celes Rogue Skirt (Physics)"/>
+        <!-- <Member name="Celes Rogue Socks"/> -->
+        <Member name="Celes Rogue Socks (Physics)"/>
+        <Member name="Celes Tarot - Boots"/>
+        <Member name="Celes Tarot - Cape"/>
+        <Member name="Celes Tarot - Gloves"/>
+        <!-- <Member name="Celes Tarot - Tights"/> -->
+        <Member name="Celes Tarot - Tights (Physics)"/>
     </Group>
 </SliderGroups>
