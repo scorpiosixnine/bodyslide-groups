@@ -367,5 +367,36 @@
         <Member name="BBD SAO - Body"/>
         <Member name="BBD SAO - Boots"/>
         <Member name="BBD SAO - Gloves"/>
+        <!-- <Member name="CBBE SE - [COCO] LB v101"/> -->
+        <Member name="CBBE SE - [COCO] LB v101 [B]"/>
+        <!-- <Member name="CBBE SE - [COCO] LB v102"/> -->
+        <Member name="CBBE SE - [COCO] LB v102 [B]"/>
+        <!-- <Member name="CBBE SE - [COCO] LB v103"/> -->
+        <Member name="CBBE SE - [COCO] LB v103 [B]"/>
+        <Member name="CBBE SE - [COCO] LBv1 Heels"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Body 01"/> -->
+        <Member name="CBBE SE - [COCO] MY Body 01 [3B]"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Body 01 PVC"/> -->
+        <Member name="CBBE SE - [COCO] MY Body 01 PVC [3B]"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Body 02"/> -->
+        <Member name="CBBE SE - [COCO] MY Body 02 [3B]"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Body 02 PVC"/> -->
+        <Member name="CBBE SE - [COCO] MY Body 02 PVC [3B]"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Boot 01"/> -->
+        <Member name="CBBE SE - [COCO] MY Boot 01 [3B]"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Boot 01 PVC"/> -->
+        <Member name="CBBE SE - [COCO] MY Boot 01 PVC [3B]"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Boot 02"/> -->
+        <Member name="CBBE SE - [COCO] MY Boot 02 [3B]"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Boot 02 PVC"/> -->
+        <Member name="CBBE SE - [COCO] MY Boot 02 PVC [3B]"/>
+        <Member name="CBBE SE - [COCO] MY Glove"/>
+        <Member name="CBBE SE - [COCO] MY Glove PVC"/>
+        <Member name="CBBE SE - [COCO] MY Shoulder"/>
+        <Member name="CBBE SE - [COCO] MY Shoulder PVC"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Upper"/> -->
+        <Member name="CBBE SE - [COCO] MY Upper [3B]"/>
+        <!-- <Member name="CBBE SE - [COCO] MY Upper PVC"/> -->
+        <Member name="CBBE SE - [COCO] MY Upper PVC [3B]"/>
     </Group>
 </SliderGroups>
