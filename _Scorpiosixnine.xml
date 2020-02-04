@@ -385,22 +385,16 @@
         <Member name="CBBE SE - [COCO] MY Shoulder PVC"/>
         <Member name="CBBE SE - [COCO] MY Upper [3B]"/>
         <Member name="CBBE SE - [COCO] MY Upper PVC [3B]"/>
-        <!-- <Member name="Wednesday Addams Boots"/> -->
         <Member name="Wednesday Addams Boots (Physics)"/>
-        <!-- <Member name="Wednesday Addams Outfit"/> -->
         <Member name="Wednesday Addams Outfit (Physics)"/>
-        <!-- <Member name="Weird Skirt Full"/> -->
         <Member name="Weird Skirt Full [SMP]"/>
-        <!-- <Member name="Weird Skirt Full 2"/> -->
         <Member name="Weird Skirt Full 2 [SMP]"/>
         <Member name="Wild Huntress 1st Person Hands"/>
         <Member name="Wild Huntress Armlets"/>
-        <!-- <Member name="Wild Huntress Bra"/> -->
         <Member name="Wild Huntress Bra (Physics)"/>
         <Member name="Wild Huntress Flat Boots"/>
         <Member name="Wild Huntress Hands"/>
         <Member name="Wild Huntress High Heel Boots (HDT)"/>
-        <!-- <Member name="Wild Huntress Skirt"/> -->
         <Member name="Wild Huntress Skirt (Physics)"/>
         <Member name="Wolf Bikini Ab Armors A"/>
         <Member name="Wolf Bikini Ab Armors B"/>
@@ -437,5 +431,22 @@
         <Member name="WTF Short Robe CBBE SE [SMP]"/>
         <Member name="WTF Short Robe Shoes A"/>
         <Member name="WTF Short Robe Shoes B"/>
+        <Member name="Vest Black"/>
+        <Member name="Vest Green"/>
+        <Member name="Vest Normal"/>
+        <Member name="Vest Pink"/>
+        <Member name="Vest PVC "/>
+        <!-- <Member name="Viceroy Consular"/> -->
+        <Member name="Viceroy Consular (Physics)"/>
+        <Member name="Viceroy Consular 1st Person"/>
+        <Member name="Viceroy Consular Boots"/>
+        <Member name="Viceroy Consular Boots Higher Heel"/>
+        <Member name="Viceroy Consular Gauntlets"/>
+        <!-- <Member name="Viceroy High Inquisitor"/> -->
+        <Member name="Viceroy High Inquisitor (Physics)"/>
+        <Member name="Viceroy High Inquisitor 1st Person"/>
+        <Member name="Viceroy High Inquisitor Boots"/>
+        <Member name="Viceroy High Inquisitor Boots Higher Heel"/>
+        <Member name="Viceroy High Inquisitor Gauntlets"/>
     </Group>
 </SliderGroups>
